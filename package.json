@@ -20,7 +20,9 @@
   "homepage": "https://github.com/novak4712/excel-self#readme",
   "browserslist": "> 0.25%, not dead",
   "dependencies": {
-    "@babel/polyfill": "^7.10.4"
+    "@babel/polyfill": "^7.10.4",
+    "material-design-icons": "^3.0.1",
+    "normalize.css": "^8.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
